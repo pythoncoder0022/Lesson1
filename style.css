@@ -1,0 +1,38 @@
+
+/* External CSS */
+h3{
+  color: blue;
+}
+
+/* element selector */
+h4{
+  color: palevioletred;
+}
+
+/* class selector */
+.myclass{
+  color: darkorange;
+  text-decoration: none;
+  background-color: rgb(240, 207, 246);
+}
+
+/* id selector */
+#myid{
+    color: mediumpurple;
+    text-decoration: none;
+    background-color: rgb(230, 229, 173);
+}
+
+/* group selector */
+h5{
+    color: maroon;
+    text-align: center;
+}
+p{
+    font-size: 15px;
+    text-align: justify;
+    color:brown;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+
+}
